@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.dhruvmanktala.myfirstproject"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c7376e89-9bd6-4139-9ed0-77f7138a6836"
+      }
+    },
+    "owner": "dhruv-manktala"
   }
 }

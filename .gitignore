@@ -24,6 +24,10 @@ npm-debug.*
 yarn-debug.*
 yarn-error.*
 
+#build
+*.apk
+*.abb
+
 # macOS
 .DS_Store
 *.pem
